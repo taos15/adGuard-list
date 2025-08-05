@@ -1,0 +1,7 @@
+! UniFi 6GHz AFC service whitelist
+! Required for proper operation of 6GHz APs with Qualcomm AFC
+
+@@||afcapi.qcs.qualcomm.com^
+@@||afcapi.canada.qcs.qualcomm.com^
+@@||location.qcs.qualcomm.com^
+@@||api.qcs.qualcomm.com^
